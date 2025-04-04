@@ -11,21 +11,27 @@
 | Ek. Publik 4                               |                          | Evi Noor, Samsubar | Evi Noor, Samsubar | Samsubar, Artidjatun |                      |
 
 ## Ekonomi Internasional
+1. [Tri Widodo, Prof., M.Ec.Dev., Ph.D.](https://acadstaff.ugm.ac.id/MTk3MTA2MjgxOTk3MDIxMDAx)
 [![Widodo](http://i3.ytimg.com/vi/kELnXW4jYiU/hqdefault.jpg)](https://www.youtube.com/watch?v=kELnXW4jYiU&t=1195s)
+2. [Amirullah Setya Hardi, S.E., Cand.Oecon., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2230-amirullah-setya-hardi)
+Lihat di bagian matakuliah pilihan
 
 ## Ekonomi Moneter
-[![Widodo](http://i3.ytimg.com/vi/q2vtP4byZuI/hqdefault.jpg)](https://www.youtube.com/watch?v=q2vtP4byZuI&t=7262s)
+[Insukindro, Prof. Dr., M.A.](https://acadstaff.ugm.ac.id/MTk1MDExMzAxOTgwMTAxMDAx)
+[![Insukindro](http://i3.ytimg.com/vi/q2vtP4byZuI/hqdefault.jpg)](https://www.youtube.com/watch?v=q2vtP4byZuI&t=7262s)
 
 ## Ekonomi Pembangunan
-[![Widodo](http://i3.ytimg.com/vi/ym54uANSLtU/hqdefault.jpg)](https://www.youtube.com/watch?v=ym54uANSLtU&t=922s)
+[Lincolin Arsyad, Prof. Dr., M.Sc.](https://prisma.simaster.ugm.ac.id/MTk1ODA3MjExOTg2MDMxMDAy)
+[![Lincolin](http://i3.ytimg.com/vi/ym54uANSLtU/hqdefault.jpg)](https://www.youtube.com/watch?v=ym54uANSLtU&t=922s)
 
 ## Ekonomi Kriminalitas
-[![Widodo](http://i3.ytimg.com/vi/M3kcNHhf90c/hqdefault.jpg)](https://www.youtube.com/watch?v=lsCxRxNv9t0&t=366s)
+[Rimawan Pradiptyo, S.E., M.Sc., Ph.D.](https://prisma.simaster.ugm.ac.id/MTk2OTEyMjgxOTk1MTIxMDAx)
+[![Rimawan](http://i3.ytimg.com/vi/M3kcNHhf90c/hqdefault.jpg)](https://www.youtube.com/watch?v=lsCxRxNv9t0&t=366s)
 
 ## Ekonomi Publik
-[Artidiatun Adji, M.Ec., Ph.D.](https://acadstaff.ugm.ac.id/arti.adji)
-[Samsubar Saleh, Prof. Dr., M.Soc.Sc.](https://acadstaff.ugm.ac.id/MTk1NTEwMDUxOTgyMDMxMDA2)
-[Evi Noor Afifah, Dr., S.E., M.S.E.](https://feb.ugm.ac.id/en/profile/lecturers/2246-evi-noor-afifah)
+1. [Artidiatun Adji, M.Ec., Ph.D.](https://acadstaff.ugm.ac.id/arti.adji) Tdk ketemu youtubenya
+2. [Samsubar Saleh, Prof. Dr., M.Soc.Sc.](https://acadstaff.ugm.ac.id/MTk1NTEwMDUxOTgyMDMxMDA2) Tdk ketemu youtubenya
+3. [Evi Noor Afifah, Dr., S.E., M.S.E.](https://feb.ugm.ac.id/en/profile/lecturers/2246-evi-noor-afifah)  
 [![Evi](http://i3.ytimg.com/vi/etT9Lt7ZwcE/hqdefault.jpg)](https://www.youtube.com/watch?v=etT9Lt7ZwcE)
 
 # Pilihan
@@ -38,17 +44,18 @@
 | Ev. Dampak                                |                          | Elan, Heni, Eny |                       | Elan, Eny          | Eny, Gumilang        |
 
 ## Ekonomi Regional
-https://www.youtube.com/watch?v=zNrqE89DdqI&t=299s
+[Amirullah Setya Hardi, S.E., Cand.Oecon., Ph.D.]()
+[![Amrullah](http://i3.ytimg.com/vi/zNrqE89DdqI/hqdefault.jpg)](https://www.youtube.com/watch?v=zNrqE89DdqI&t=299s)
 
 ## Ekonomi Lingkungan
-[![Widodo](http://i3.ytimg.com/vi/lsCxRxNv9t0/hqdefault.jpg)](https://www.youtube.com/watch?v=lsCxRxNv9t0&t=366s)
+[![Poppy](http://i3.ytimg.com/vi/lsCxRxNv9t0/hqdefault.jpg)](https://www.youtube.com/watch?v=lsCxRxNv9t0&t=366s)
 
 ## Evaluasi Kebijakan Publik
-[Elan Satriawan, M.Ec., Ph.D.](https://acadstaff.ugm.ac.id/MTk3MjAxMDkyMDA4MTIxMDAx)
+1. [Elan Satriawan, M.Ec., Ph.D.](https://acadstaff.ugm.ac.id/MTk3MjAxMDkyMDA4MTIxMDAx)
 [![Elan](http://i3.ytimg.com/vi/yGb-GqR0228/hqdefault.jpg)](https://www.youtube.com/watch?v=yGb-GqR0228)
 
-[Eny Sulistyaningrum, S.E., M.A., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2328-eny-sulistyaningrum)
+2. [Eny Sulistyaningrum, S.E., M.A., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2328-eny-sulistyaningrum)
 [![Eny](http://i3.ytimg.com/vi/9RV0196Xa3Q/hqdefault.jpg)](https://www.youtube.com/watch?v=9RV0196Xa3Q&t=143s)
 
-[Gumilang Aryo Sahadewo, S.E., M.A., Ph.D.](https://acadstaff.ugm.ac.id/sahadewo)
+3. [Gumilang Aryo Sahadewo, S.E., M.A., Ph.D.](https://acadstaff.ugm.ac.id/sahadewo)
 [![Gilang](http://i3.ytimg.com/vi/kYA_K5Bk9oM/hqdefault.jpg)](https://www.youtube.com/watch?v=kYA_K5Bk9oM)
