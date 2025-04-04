@@ -16,9 +16,10 @@
 [![Widodo](http://i3.ytimg.com/vi/kELnXW4jYiU/hqdefault.jpg)](https://www.youtube.com/watch?v=kELnXW4jYiU&t=1195s)
 
 2. [Diny Ghuzini, S.E, M.Ec., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2245-diny-ghuzini) lihat menit 1:02:00
+   
 [![Diny](http://i3.ytimg.com/vi/hHR7bcvT7VQ/hqdefault.jpg)](https://www.youtube.com/watch?v=hHR7bcvT7VQ&t=3735s)
 
-3. [Amirullah Setya Hardi, S.E., Cand.Oecon., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2230-amirullah-setya-hardi)
+4. [Amirullah Setya Hardi, S.E., Cand.Oecon., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2230-amirullah-setya-hardi)
 Lihat di bagian matakuliah pilihan ekonomi regional
 
 ## Ekonomi Moneter
