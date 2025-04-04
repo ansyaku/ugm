@@ -22,6 +22,9 @@
 ## Ekonomi Kriminalitas
 [![Widodo](http://i3.ytimg.com/vi/M3kcNHhf90c/hqdefault.jpg)](https://www.youtube.com/watch?v=lsCxRxNv9t0&t=366s)
 
+## Ekonomi Publik
+Artidiatun Adji, M.Ec., Ph.D.
+
 
 # Pilihan
 ## Mata Kuliah Pilihan
@@ -30,10 +33,18 @@
 | Ek. Kelembagaan                            | Lincoln                 |                    |  Lincolin |                    |                      |
 | Ek. Regional                               |                          | Amrullah           |                       | Amrullah           | Amrullah                     |
 | Ek. Lingkungan                                 |                          |                    |                       | Poppy    |                      |
-| Ek. Dampak                                |                          | Elan, Heni, Eny |                       | Elan, Eny          | Eny, Gumilang        |
+| Ev. Dampak                                |                          | Elan, Heni, Eny |                       | Elan, Eny          | Eny, Gumilang        |
+
+## Ekonomi Regional
+https://www.youtube.com/watch?v=zNrqE89DdqI&t=299s
 
 ## Ekonomi Lingkungan
 [![Widodo](http://i3.ytimg.com/vi/lsCxRxNv9t0/hqdefault.jpg)](https://www.youtube.com/watch?v=lsCxRxNv9t0&t=366s)
 
 ## Evaluasi Kebijakan Publik
-[![Widodo](http://i3.ytimg.com/vi/yGb-GqR0228/hqdefault.jpg)](https://www.youtube.com/watch?v=yGb-GqR0228)
+[Elan Satriawan, M.Ec., Ph.D.](https://acadstaff.ugm.ac.id/MTk3MjAxMDkyMDA4MTIxMDAx)
+[![Elan](http://i3.ytimg.com/vi/yGb-GqR0228/hqdefault.jpg)](https://www.youtube.com/watch?v=yGb-GqR0228)
+[Eny Sulistyaningrum, S.E., M.A., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2328-eny-sulistyaningrum)
+[![Eny](https://www.youtube.com/watch?v=9RV0196Xa3Q&t=143s)
+[Gumilang Aryo Sahadewo, S.E., M.A., Ph.D.](https://acadstaff.ugm.ac.id/sahadewo)
+[![Gilang](https://www.youtube.com/watch?v=kYA_K5Bk9oM)
