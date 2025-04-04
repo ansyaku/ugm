@@ -10,6 +10,7 @@
 | Ek. Publik 3                               | Samsubar, Artidjatun     |                    |                       |                    | Samsubar         |
 | Ek. Publik 4                               |                          | Evi Noor, Samsubar | Evi Noor, Samsubar | Samsubar, Artidjatun |                      |
 
+Berikut sampel masing-masing dosen saat mengajar (materi pengajar tidak selalu berkaitan dengan topik konsentrasi, hanya diambil sebagai sampel cara ybs mengajar.
 ## Ekonomi Internasional
 1. [Tri Widodo, Prof., M.Ec.Dev., Ph.D.](https://acadstaff.ugm.ac.id/MTk3MTA2MjgxOTk3MDIxMDAx) lihat menit 20:00
    
@@ -53,7 +54,8 @@ Lihat di bagian matakuliah pilihan ekonomi regional
 | Ek. Lingkungan                                 |                          |                    |                       | Poppy    |                      |
 | Ev. Dampak                                |                          | Elan, Heni, Eny |                       | Elan, Eny          | Eny, Gumilang        |
 
-## Ekonomi Kelembangaan
+Berikut sampel masing-masing dosen saat mengajar (materi pengajar tidak selalu berkaitan dengan topik pilihan, hanya diambil sebagai sampel cara ybs mengajar.
+## Ekonomi Kelembagaan
 Lihat di matakuliah konsentrasi ekonomi pembangunan
 
 ## Ekonomi Regional
