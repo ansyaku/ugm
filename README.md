@@ -1,5 +1,19 @@
 # Pengajar Mata Kuliah Konsentrasi dan Pilihan
-(Diambil data dari tahun 2021-2024)
+| Mata Kuliah                                | Genap 22/23             | Gasal 23/24       | Genap 23/24          | Gasal 24/25       | Genap 24/25         |
+|--------------------------------------------|--------------------------|--------------------|-----------------------|--------------------|----------------------|
+| Ekonomika Moneter                          |  Mhd. Edi Purnawan       |                    |                       |                    | Insukindro           |
+| Keuangan Internasional                     |                          | Dini Ghuzni        |                       | Dini Ghuzni        |                      |
+| Perdagangan Internasional                  | Amrullah, Tri Widodo     |                    | Amrullah, Tri Widodo  |                    |                      |
+| Ek. Pembangunan 3                          | Catur, Evi Noor, Eny Sulis | Catur, Evi Noor    |                       | Lincolin            |              |
+| Ek. Pembangunan 4                          |                          |                    |  Poppy, Mamduh, Evi Noor|                    | Lincolin           |
+| Ekonomika Publik                           |                          |                    |                       |                    |                      |
+| Ek. Publik 3                               | Samsubar, Artidjatun     |                    |                       |                    | Samsubar         |
+| Ek. Publik 4                               |                          | Evi Noor, Samsubar | Evi Noor, Samsubar | Samsubar, Artidjatun |                      |
+| Ek. Kelembagaan                            | Lincoln                 |                    |  Lincolin |                    |                      |
+| Ek. Regional                               |                          | Amrullah           |                       | Amrullah           | Amrullah                     |
+| Ek. Lingkungan                                 |                          |                    |                       | Poppy    |                      |
+| Ek. Dampak                                |                          | Elan, Heni, Eny |                       | Elan, Eny          | Eny, Gumilang        |
+
 
 ## Mata Kuliah Konsentrasi
 ## Ekonomi Internasional
