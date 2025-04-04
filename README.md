@@ -16,7 +16,7 @@
 [![Widodo](http://i3.ytimg.com/vi/kELnXW4jYiU/hqdefault.jpg)](https://www.youtube.com/watch?v=kELnXW4jYiU&t=1195s)
 
 3. [Amirullah Setya Hardi, S.E., Cand.Oecon., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2230-amirullah-setya-hardi)
-Lihat di bagian matakuliah pilihan
+Lihat di bagian matakuliah pilihan ekonomi regional
 
 ## Ekonomi Moneter
 [Insukindro, Prof. Dr., M.A.](https://acadstaff.ugm.ac.id/MTk1MDExMzAxOTgwMTAxMDAx)
@@ -25,6 +25,7 @@ Lihat di bagian matakuliah pilihan
 
 ## Ekonomi Pembangunan
 [Lincolin Arsyad, Prof. Dr., M.Sc.](https://prisma.simaster.ugm.ac.id/MTk1ODA3MjExOTg2MDMxMDAy)
+
 [![Lincolin](http://i3.ytimg.com/vi/ym54uANSLtU/hqdefault.jpg)](https://www.youtube.com/watch?v=ym54uANSLtU&t=922s)
 
 ## Ekonomi Kriminalitas
@@ -47,6 +48,9 @@ Lihat di bagian matakuliah pilihan
 | Ek. Regional                               |                          | Amrullah           |                       | Amrullah           | Amrullah                     |
 | Ek. Lingkungan                                 |                          |                    |                       | Poppy    |                      |
 | Ev. Dampak                                |                          | Elan, Heni, Eny |                       | Elan, Eny          | Eny, Gumilang        |
+
+## Ekonomi Kelembangaan
+Lihat di matakuliah konsentrasi ekonomi pembangunan
 
 ## Ekonomi Regional
 [Amirullah Setya Hardi, S.E., Cand.Oecon., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2230-amirullah-setya-hardi)
