@@ -12,12 +12,15 @@
 
 ## Ekonomi Internasional
 1. [Tri Widodo, Prof., M.Ec.Dev., Ph.D.](https://acadstaff.ugm.ac.id/MTk3MTA2MjgxOTk3MDIxMDAx)
+   
 [![Widodo](http://i3.ytimg.com/vi/kELnXW4jYiU/hqdefault.jpg)](https://www.youtube.com/watch?v=kELnXW4jYiU&t=1195s)
-2. [Amirullah Setya Hardi, S.E., Cand.Oecon., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2230-amirullah-setya-hardi)
+
+3. [Amirullah Setya Hardi, S.E., Cand.Oecon., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2230-amirullah-setya-hardi)
 Lihat di bagian matakuliah pilihan
 
 ## Ekonomi Moneter
 [Insukindro, Prof. Dr., M.A.](https://acadstaff.ugm.ac.id/MTk1MDExMzAxOTgwMTAxMDAx)
+
 [![Insukindro](http://i3.ytimg.com/vi/q2vtP4byZuI/hqdefault.jpg)](https://www.youtube.com/watch?v=q2vtP4byZuI&t=7262s)
 
 ## Ekonomi Pembangunan
@@ -26,12 +29,14 @@ Lihat di bagian matakuliah pilihan
 
 ## Ekonomi Kriminalitas
 [Rimawan Pradiptyo, S.E., M.Sc., Ph.D.](https://prisma.simaster.ugm.ac.id/MTk2OTEyMjgxOTk1MTIxMDAx)
+
 [![Rimawan](http://i3.ytimg.com/vi/M3kcNHhf90c/hqdefault.jpg)](https://www.youtube.com/watch?v=lsCxRxNv9t0&t=366s)
 
 ## Ekonomi Publik
 1. [Artidiatun Adji, M.Ec., Ph.D.](https://acadstaff.ugm.ac.id/arti.adji) Tdk ketemu youtubenya
 2. [Samsubar Saleh, Prof. Dr., M.Soc.Sc.](https://acadstaff.ugm.ac.id/MTk1NTEwMDUxOTgyMDMxMDA2) Tdk ketemu youtubenya
-3. [Evi Noor Afifah, Dr., S.E., M.S.E.](https://feb.ugm.ac.id/en/profile/lecturers/2246-evi-noor-afifah)  
+3. [Evi Noor Afifah, Dr., S.E., M.S.E.](https://feb.ugm.ac.id/en/profile/lecturers/2246-evi-noor-afifah)
+    
 [![Evi](http://i3.ytimg.com/vi/etT9Lt7ZwcE/hqdefault.jpg)](https://www.youtube.com/watch?v=etT9Lt7ZwcE)
 
 # Pilihan
@@ -44,7 +49,8 @@ Lihat di bagian matakuliah pilihan
 | Ev. Dampak                                |                          | Elan, Heni, Eny |                       | Elan, Eny          | Eny, Gumilang        |
 
 ## Ekonomi Regional
-[Amirullah Setya Hardi, S.E., Cand.Oecon., Ph.D.]()
+[Amirullah Setya Hardi, S.E., Cand.Oecon., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2230-amirullah-setya-hardi)
+
 [![Amrullah](http://i3.ytimg.com/vi/zNrqE89DdqI/hqdefault.jpg)](https://www.youtube.com/watch?v=zNrqE89DdqI&t=299s)
 
 ## Ekonomi Lingkungan
@@ -52,10 +58,13 @@ Lihat di bagian matakuliah pilihan
 
 ## Evaluasi Kebijakan Publik
 1. [Elan Satriawan, M.Ec., Ph.D.](https://acadstaff.ugm.ac.id/MTk3MjAxMDkyMDA4MTIxMDAx)
+   
 [![Elan](http://i3.ytimg.com/vi/yGb-GqR0228/hqdefault.jpg)](https://www.youtube.com/watch?v=yGb-GqR0228)
 
-2. [Eny Sulistyaningrum, S.E., M.A., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2328-eny-sulistyaningrum)
+3. [Eny Sulistyaningrum, S.E., M.A., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2328-eny-sulistyaningrum)
+   
 [![Eny](http://i3.ytimg.com/vi/9RV0196Xa3Q/hqdefault.jpg)](https://www.youtube.com/watch?v=9RV0196Xa3Q&t=143s)
 
-3. [Gumilang Aryo Sahadewo, S.E., M.A., Ph.D.](https://acadstaff.ugm.ac.id/sahadewo)
+5. [Gumilang Aryo Sahadewo, S.E., M.A., Ph.D.](https://acadstaff.ugm.ac.id/sahadewo)
+   
 [![Gilang](http://i3.ytimg.com/vi/kYA_K5Bk9oM/hqdefault.jpg)](https://www.youtube.com/watch?v=kYA_K5Bk9oM)
