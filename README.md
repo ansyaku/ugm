@@ -12,12 +12,11 @@
 [![Widodo](http://i3.ytimg.com/vi/ym54uANSLtU/hqdefault.jpg)](https://www.youtube.com/watch?v=ym54uANSLtU&t=922s)
 
 ## Ekonomi Kriminalitas
-[![Widodo](https://www.youtube.com/watch?v=M3kcNHhf90c)
-
+[![Widodo](http://i3.ytimg.com/vi/ym54uANSLtU/hqdefault.jpg)](https://www.youtube.com/watch?v=M3kcNHhf90c)
 
 # Mata Kuliah Pilihan
 ## Ekonomi Lingkungan
-[![Widodo](https://www.youtube.com/watch?v=lsCxRxNv9t0&t=366s)
+[![Widodo](http://i3.ytimg.com/vi/M3kcNHhf90c/hqdefault.jpg)](https://www.youtube.com/watch?v=lsCxRxNv9t0&t=366s)
 
 ## Evaluasi Kebijakan Publik
-[![Widodo](https://www.youtube.com/watch?v=yGb-GqR0228)
+[![Widodo](http://i3.ytimg.com/vi/yGb-GqR0228/hqdefault.jpg)](https://www.youtube.com/watch?v=yGb-GqR0228)
