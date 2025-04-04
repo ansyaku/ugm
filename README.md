@@ -6,10 +6,10 @@
 [![Widodo](http://i3.ytimg.com/vi/kELnXW4jYiU/hqdefault.jpg)](https://www.youtube.com/watch?v=kELnXW4jYiU&t=1195s)
 
 ## Ekonomi Moneter
-[![Widodo](https://www.youtube.com/watch?v=q2vtP4byZuI&t=7262s)
+[![Widodo](http://i3.ytimg.com/vi/q2vtP4byZuI/hqdefault.jpg)](https://www.youtube.com/watch?v=q2vtP4byZuI&t=7262s)
 
 ## Ekonomi Pembangunan
-[![Widodo](https://www.youtube.com/watch?v=ym54uANSLtU&t=922s)
+[![Widodo](http://i3.ytimg.com/vi/ym54uANSLtU/hqdefault.jpg)](https://www.youtube.com/watch?v=ym54uANSLtU&t=922s)
 
 ## Ekonomi Kriminalitas
 [![Widodo](https://www.youtube.com/watch?v=M3kcNHhf90c)
