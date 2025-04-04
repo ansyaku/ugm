@@ -23,8 +23,10 @@
 [![Widodo](http://i3.ytimg.com/vi/M3kcNHhf90c/hqdefault.jpg)](https://www.youtube.com/watch?v=lsCxRxNv9t0&t=366s)
 
 ## Ekonomi Publik
-Artidiatun Adji, M.Ec., Ph.D.
-
+[Artidiatun Adji, M.Ec., Ph.D.](https://acadstaff.ugm.ac.id/arti.adji)
+[Samsubar Saleh, Prof. Dr., M.Soc.Sc.](https://acadstaff.ugm.ac.id/MTk1NTEwMDUxOTgyMDMxMDA2)
+[Evi Noor Afifah, Dr., S.E., M.S.E.](https://feb.ugm.ac.id/en/profile/lecturers/2246-evi-noor-afifah)
+[![Evi](http://i3.ytimg.com/vi/etT9Lt7ZwcE/hqdefault.jpg)](https://www.youtube.com/watch?v=etT9Lt7ZwcE)
 
 # Pilihan
 ## Mata Kuliah Pilihan
@@ -44,7 +46,9 @@ https://www.youtube.com/watch?v=zNrqE89DdqI&t=299s
 ## Evaluasi Kebijakan Publik
 [Elan Satriawan, M.Ec., Ph.D.](https://acadstaff.ugm.ac.id/MTk3MjAxMDkyMDA4MTIxMDAx)
 [![Elan](http://i3.ytimg.com/vi/yGb-GqR0228/hqdefault.jpg)](https://www.youtube.com/watch?v=yGb-GqR0228)
+
 [Eny Sulistyaningrum, S.E., M.A., Ph.D.](https://feb.ugm.ac.id/en/profile/lecturers/2328-eny-sulistyaningrum)
-[![Eny](https://www.youtube.com/watch?v=9RV0196Xa3Q&t=143s)
+[![Eny](http://i3.ytimg.com/vi/9RV0196Xa3Q/hqdefault.jpg)](https://www.youtube.com/watch?v=9RV0196Xa3Q&t=143s)
+
 [Gumilang Aryo Sahadewo, S.E., M.A., Ph.D.](https://acadstaff.ugm.ac.id/sahadewo)
-[![Gilang](https://www.youtube.com/watch?v=kYA_K5Bk9oM)
+[![Gilang](http://i3.ytimg.com/vi/kYA_K5Bk9oM/hqdefault.jpg)](https://www.youtube.com/watch?v=kYA_K5Bk9oM)
