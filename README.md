@@ -3,7 +3,7 @@
 
 ## Mata Kuliah Konsentrasi
 ## Ekonomi Internasional
-[![Widodo]([http://i3.ytimg.com/vi/kELnXW4jYiU/hqdefault.jpg)](https://www.youtube.com/watch?v=kELnXW4jYiU&t=1195s)
+[![Widodo](http://i3.ytimg.com/vi/kELnXW4jYiU/hqdefault.jpg)](https://www.youtube.com/watch?v=kELnXW4jYiU&t=1195s)
 
 ## Ekonomi Moneter
 [![Widodo](https://www.youtube.com/watch?v=q2vtP4byZuI&t=7262s)
