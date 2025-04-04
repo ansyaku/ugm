@@ -44,7 +44,7 @@ Lihat di bagian matakuliah pilihan ekonomi regional
 ## Mata Kuliah Pilihan
 | Mata Kuliah                                | Genap 22/23             | Gasal 23/24       | Genap 23/24          | Gasal 24/25       | Genap 24/25         |
 |--------------------------------------------|--------------------------|--------------------|-----------------------|--------------------|----------------------|
-| Ek. Kelembagaan                            | Lincoln                 |                    |  Lincolin |                    |                      |
+| Ek. Kelembagaan                            | Lincolin                 |                    |  Lincolin |                    |                      |
 | Ek. Regional                               |                          | Amrullah           |                       | Amrullah           | Amrullah                     |
 | Ek. Lingkungan                                 |                          |                    |                       | Poppy    |                      |
 | Ev. Dampak                                |                          | Elan, Heni, Eny |                       | Elan, Eny          | Eny, Gumilang        |
